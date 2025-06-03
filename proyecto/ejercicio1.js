@@ -1,4 +1,4 @@
-// En este ejercicio calculare el uso de variables y operadores aritmeticos
+// En este ejercicio se calcula el uso de variables y operadores aritmeticos
 const prompt = require("prompt-sync")();
 
 //le pido al usuario que ingrese un numero al azar

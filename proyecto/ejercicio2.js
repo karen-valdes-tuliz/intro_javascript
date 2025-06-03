@@ -1,4 +1,4 @@
-//En este ejercicio practicare si un numero es positivo, negativo o cero
+//En este ejercicio se practicara si un numero es positivo, negativo o cero
 const prompt = require("prompt-sync")();
 
 

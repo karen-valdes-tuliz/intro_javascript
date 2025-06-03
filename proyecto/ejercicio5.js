@@ -1,4 +1,4 @@
-//En este ejerccio practicaremos un saludo personalizado
+//En este ejerccio se practicara un saludo personalizado
 const prompt =require("prompt-sync")();
 
 //Le pedimos el nombre al usuario

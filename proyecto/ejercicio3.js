@@ -1,4 +1,4 @@
-// En este ejercicio practicare la suma de dos numeros
+// En este ejercicio se practicara la suma de dos numeros
 const prompt =require("prompt-sync") ();
 
 //Le pedimos el primer numero 

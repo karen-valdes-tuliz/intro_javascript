@@ -1,4 +1,4 @@
-// En este ejercicio practicare si un numero es par o impar
+// En este ejercicio practicara si un numero es par o impar
 const prompt = require("prompt-sync")();
 
 //Le solicitamos al usuario que ingrese un numero
