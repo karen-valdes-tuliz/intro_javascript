@@ -1,0 +1,13 @@
+//Actividad 10 donde se calcula el prcio final de un producto don descuento
+const prompt = require ("prompt-sync")();
+
+//Le preguntamos al usuario que ingrese el precio original del producto
+let precioOriginal = parseFloat (prompt("Ingrese el precio original del producto: "))
+let porcentajeDescuento = parseFloat (prompt("Ahora ingrese el procentaje del descuento: "))
+
+//Se calcula el descuento
+let montoDescuento = precioOriginal * (porcentajeDescuento/ 100);
+let precioFinal = precioOriginal - montoDescuento;
+
+//Se le muestra al usuario el precio final
+console.log(`El precio final es de: ${precioFinal}`);

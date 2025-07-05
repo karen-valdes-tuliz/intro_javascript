@@ -2,7 +2,6 @@
 const prompt = require("prompt-sync")();
 
 
-
 //1 Se le pide al usuario que ingrese un numero
 let numero = parseInt(prompt("ingrese un numero: "));
 
